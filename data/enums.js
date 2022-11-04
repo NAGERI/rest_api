@@ -5,6 +5,9 @@ const signMeansEnum = {
   ADDITION: "ADDITION",
   SUBTRACTION: "SUBTRACTION",
   MULTIPLICATION: "MULTIPLICATION",
+  ADDITION: "addition",
+  SUBTRACTION: "subtraction",
+  MULTIPLICATION: "multiplication",
 };
 
 module.exports = signMeansEnum;
