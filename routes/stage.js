@@ -62,7 +62,7 @@ router.post(
         
       }*/
 
-      res.status(201).json({
+      res.status(200).json({
         slackUsername: "Nageri.Cedric",
         operation_type: operation_type,
         result: answer,
